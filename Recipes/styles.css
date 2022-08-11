@@ -1,0 +1,29 @@
+body.index{
+    background-color: antiquewhite;
+}
+body.lasagna{
+    background-color: antiquewhite;
+}
+body.brigadeiro{
+    background-color: antiquewhite;
+}
+body.feijoada{
+    background-color: antiquewhite;
+}
+h1,h2,h3,ul,ol,p{
+    color: aqua;
+    background-color: rosybrown;
+    padding: 2px;
+    text-align: center;
+
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
